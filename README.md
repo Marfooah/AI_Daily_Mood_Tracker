@@ -9,9 +9,15 @@ Users can write about their day in natural language, and the application automat
 🚀 Live Demo: https://aidailymoodtracker.streamlit.app/
 
 ## 📸 Application Preview
+
+### 🤖 AI Mood Analysis
 <img width="2876" height="1722" alt="image" src="https://github.com/user-attachments/assets/7bd685fe-fdb9-4266-8c79-3a5e2a143855" />
+
+### 📊 Mood Analytics Dashboard
 <img width="2876" height="1722" alt="image" src="https://github.com/user-attachments/assets/6bc51b3e-57dd-4a26-b99f-7743d4a71e60" />
 <img width="2876" height="600" alt="image" src="https://github.com/user-attachments/assets/4e7925a4-36a0-4b01-bb55-977dec998818" />
+
+### 🗂️ Data Management
 <img width="2876" height="664" alt="image" src="https://github.com/user-attachments/assets/88cfd4bd-fefd-4a06-99fd-e9dbcea2e2d4" />
 
 ---
